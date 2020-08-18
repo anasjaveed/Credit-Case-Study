@@ -1,4 +1,4 @@
-﻿# Credit-EDA-Case-Study
+﻿# EDA Case Study - Credit Risk Analysis
 
 Problem Statement
  
